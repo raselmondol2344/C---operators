@@ -1,0 +1,6 @@
+summation  =  12
+substraction = 8
+multiplication  = 20
+division = 5
+divided is 7.50
+reminder = 1
