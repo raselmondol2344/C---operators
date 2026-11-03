@@ -1,6 +1,3 @@
-less then = 0
-less or eaual then = 0
-greater then = 1
-greter or eaual then = 1
-eauals to= 0
-not equals to = 1
+using && = 1
+using || = 0
+using ! = 0
