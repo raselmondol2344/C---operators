@@ -1,6 +1,6 @@
-summation  =  12
-substraction = 8
-multiplication  = 20
-division = 5
-divided is 7.50
-reminder = 1
+less then = 0
+less or eaual then = 0
+greater then = 1
+greter or eaual then = 1
+eauals to= 0
+not equals to = 1
